@@ -1,1 +1,1 @@
-FROM registry.access.redhat.com/mysql:8.4.2
+FROM registry.redhat.io/mysql:8.4.2
