@@ -1,1 +1,1 @@
-FROM hub.docker.com/layers/library/mysql/8.4.2/images/mysql:8.4.2
+FROM docker.io/library/mysql/mysql:8.4.2
